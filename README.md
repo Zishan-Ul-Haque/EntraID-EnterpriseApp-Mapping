@@ -87,7 +87,7 @@ To run this script, ensure:
 
 ## **Contributors**
 **Author**: Zishan Haque (IAM & Cybersecurity Specialist)   
-🔗 **LinkedIn**: [Zishan Haque](https://www.linkedin.com/in/zishanhaque)  
+🔗 **LinkedIn**: [Zishan Haque]([https://www.linkedin.com/in/zishanhaque](https://www.linkedin.com/in/zishan-ul-haque-5683a3143/))  
 
 ---
 
