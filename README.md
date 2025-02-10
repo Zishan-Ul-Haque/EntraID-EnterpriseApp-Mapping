@@ -78,8 +78,7 @@ To run this script, ensure:
 
 ---
 
-## **Future Enhancements**
-- 🔄 **Integration with Microsoft Sentinel** for automated security alerts  
+## **Future Enhancements** 
 - 🛠️ **Filter for inactive applications** based on last activity logs  
 - 📊 **Power BI Dashboard Support** for easier visualization  
 - 🏷️ **Tagging High-Risk Applications** (e.g., applications with privileged access)  
